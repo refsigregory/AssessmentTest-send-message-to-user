@@ -1,8 +1,0 @@
-Test First Test Last|Sun Jan 15 2023 03:39:55 GMT+0800|Asia/Makassar
-Test First 3 Test Last|Sun Jan 15 2023 03:39:55 GMT+0800|Asia/Makassar
-Test First Test Last|Sun Jan 15 2023 03:40:00 GMT+0800|Asia/Makassar
-Test First 3 Test Last|Sun Jan 15 2023 03:40:00 GMT+0800|Asia/Makassar
-Test First Test Last|Sun Jan 15 2023 03:40:05 GMT+0800|Asia/Makassar
-Test First 3 Test Last|Sun Jan 15 2023 03:40:05 GMT+0800|Asia/Makassar
-Test First Test Last|Sun Jan 15 2023 03:40:10 GMT+0800|Asia/Makassar
-Test First 3 Test Last|Sun Jan 15 2023 03:40:10 GMT+0800|Asia/Makassar
